@@ -1,4 +1,4 @@
 # squierrel
 
 
-:squierrel:  :poop
+:squirrel:  :poop:
